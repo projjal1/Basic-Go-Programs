@@ -11,5 +11,6 @@ func fact(x int) int{
 }
 
 func main(){
+	fmt.Println("Factorial of 5 is:")
 	fmt.Println(fact(5))
 }
